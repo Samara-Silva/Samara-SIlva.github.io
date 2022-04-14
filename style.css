@@ -10,8 +10,6 @@ body {
 
 .minha-foto {
     border-radius: 50%;
-}
-
-#link1 {
-text-decoration: none;
+    padding: 80px 80px;
+    background-color: #B0A9B9;
 }
