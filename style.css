@@ -1,0 +1,17 @@
+body {
+    font-family: 'Square Peg', cursive;
+    font-size: 35px;
+    padding: 35px 45px;
+    text-align: center;
+    background-color: #A3BAC1;
+    font-style: normal;
+    color: white;
+}
+
+.minha-foto {
+    border-radius: 50%;
+}
+
+#link1 {
+text-decoration: none;
+}
